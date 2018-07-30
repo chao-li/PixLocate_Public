@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "45827417360",
+    "firebase_url": "https://omniview-94ea2.firebaseio.com",
+    "project_id": "omniview-94ea2",
+    "storage_bucket": "omniview-94ea2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45827417360:android:81fedfd569b8217d",
+        "android_client_info": {
+          "package_name": "clidev.omniview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45827417360-nmu26f7lge3m216o6hjcuoap3ol5br40.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "clidev.omniview",
+            "certificate_hash": "fe8edbeaafbb73b3eb7c820d1d0dc32b633777db"
+          }
+        },
+        {
+          "client_id": "45827417360-3ofc4u60ctiak952n99d59ihd5b189hm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "clidev.omniview",
+            "certificate_hash": "16be3164b092b4e2979f74c87bb85c7c019f0349"
+          }
+        },
+        {
+          "client_id": "45827417360-1g6j2v64i59d2c3ca8abaem92fjuu6ve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvnGffF1-WAdOSSV2HE6Ny8nZrIyJOAwc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45827417360-1g6j2v64i59d2c3ca8abaem92fjuu6ve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45827417360:android:1e41c3f3779d02b6",
+        "android_client_info": {
+          "package_name": "clidev.pixlocate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45827417360-7pjcurdo9uu03euks9uvtus3e8b48kmf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "clidev.pixlocate",
+            "certificate_hash": "fe8edbeaafbb73b3eb7c820d1d0dc32b633777db"
+          }
+        },
+        {
+          "client_id": "45827417360-1g6j2v64i59d2c3ca8abaem92fjuu6ve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvnGffF1-WAdOSSV2HE6Ny8nZrIyJOAwc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45827417360-1g6j2v64i59d2c3ca8abaem92fjuu6ve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
